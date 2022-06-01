@@ -30,7 +30,7 @@ module "sandbox1" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "vinay.hegde@insight.com"
+    AccountEmail              = "vhegde@teksystems.com"
     AccountName               = "INFRASTRUCTURE SHARING"
     ManagedOrganizationalUnit = "Workload"
     SSOUserEmail              = "vinay.hegde@insight.com"
